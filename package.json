@@ -1,0 +1,20 @@
+{
+  "name": "juhe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanyx/juhe.git"
+  },
+  "keywords": [],
+  "author": "guanyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanyx/juhe/issues"
+  },
+  "homepage": "https://github.com/guanyx/juhe#readme"
+}
